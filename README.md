@@ -19,11 +19,14 @@ Etienne_Preprocessing.py:
 Contains preprocessing of the data. 
 •	The investigation into the information about the Data Frame including the index dtype and columns, non-null values and memory usage
 •	The investigation into missing variables within the data set
-•	Plotting of the raw 
+•	Plotting of the raw data 
 
 Etienne_Kmean
 •	Contains K-means implementation 
 •	Elbow Method 
+
+
+# Please change the path to match where your data is stored.  
 
 # Test Cases (PDF)
 TestCase_Kmean 
