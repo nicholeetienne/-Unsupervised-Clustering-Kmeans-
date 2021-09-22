@@ -32,8 +32,8 @@ Etienne_Kmean
 TestCase_Kmean 
 TestCase_Preprocessing
 
-# Time and Memory 
-0.9s ||
-4.2 GB
+
+Time : 0.9s ||
+Memory: 300 MB
 
 *Possible improvement in python: define multiple functions within a single script. 
